@@ -5,5 +5,5 @@ public.employees (name)
 values
 ('Erlich Bachman'),
 ('Richard Hendricks'),
-('Monica Hall')
+('Monica Hall'),
 ('Deepak Kumar');
